@@ -21,7 +21,7 @@
     "nodemon": "^1.19.3",
     "path": "^0.12.7",
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.0",
     "webpack-md5-hash": "0.0.6"
   },
